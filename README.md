@@ -8,7 +8,8 @@ Fontes:
 Inspiração: https://github.com/toon-format/toon
 
 Agradecimentos:
-http://www.pctoledo.com.br/forum/
+http://www.pctoledo.com.br/forum/(R.I.P.)
+http://www.pctoledo.org/
 http://www.fivewin.com.br/
 
 #ParseTOON
